@@ -1,0 +1,311 @@
+Pregunta: Hola.
+Respuesta: Hola, en que puedo ayudarle.
+
+Pregunta: Muchas gracias.
+Respuesta: No hay de que, si necesita algo más no dude en preguntar.
+
+Pregunta: ¿carreras o facultades estudian?
+Respuesta: Las carreras que se estudian en la Cujae son Ingeniería Informática, Ingeniería Industrial, Ingeniería Química, Ingeniería Mecánica, Ingeniería en Telecomunicaciones y Electrónica, Ingeniería Civil, Ingeniería Automática y Biomédica, Ingeniería Mecánica, Arquitectura.
+
+Pregunta: ¿Que se estudia?
+Respuesta: Las carreras que se estudian en la Cujae son Ingeniería Informática, Ingeniería Industrial, Ingeniería Química, Ingeniería Mecánica, Ingeniería en Telecomunicaciones y Electrónica, Ingeniería Civil, Ingeniería Automática y Biomédica, Ingeniería Mecánica, Arquitectura.
+
+Pregunta: ¿Qué puedo estudiar en la Cujae?
+Respuesta: Las carreras que puede estudiar en la Cujae son Ingeniería Informática, Ingeniería Industrial, Ingeniería Química, Ingeniería Mecánica, Ingeniería en Telecomunicaciones y Electrónica, Ingeniería Civil, Ingeniería Automática y Biomédica, Ingeniería Mecánica, Arquitectura.
+
+Pregunta: ¿carreras o facultades tiene?
+Respuesta: Las carreras que se estudian en la Cujae son Ingeniería Informática, Ingeniería Industrial, Ingeniería Química, Ingeniería Mecánica, Ingeniería en Telecomunicaciones y Electrónica, Ingeniería Civil, Ingeniería Automática y Biomédica, Ingeniería Mecánica, Arquitectura.
+
+Pregunta: ¿Qué carreras o facultades se estudian en Cujae?
+Respuesta: Las carreras que se estudian en la Cujae son Ingeniería Informática, Ingeniería Industrial, Ingeniería Química, Ingeniería Mecánica, Ingeniería en Telecomunicaciones y Electrónica, Ingeniería Civil, Ingeniería Automática y Biomédica, Ingeniería Mecánica, Arquitectura.
+
+Pregunta: ¿Dónde está ubicada se encuentra?
+Respuesta: Calle 114 entre Ciclovía y Rotonda, Marianao, La Habana, Cuba.
+
+Pregunta: ¿Dónde está ubicada se encuentra Cujae?
+Respuesta: Calle 114 entre Ciclovía y Rotonda, Marianao, La Habana, Cuba.
+
+Pregunta: ¿Dónde está la Cujae?
+Respuesta: Calle 114 entre Ciclovía y Rotonda, Marianao, La Habana, Cuba.
+
+Pregunta: ¿Dónde queda la Cujae?
+Respuesta: Calle 114 entre Ciclovía y Rotonda, Marianao, La Habana, Cuba.
+
+Pregunta: ¿instalaciones lugar deportivas?
+Respuesta: La Cujae cuenta con el DEDER, terrenos, tatamis para deportes de combate y una piscina semiolímpica.
+
+Pregunta: ¿instalaciones para practicar deportes?
+Respuesta: La Cujae cuenta con el DEDER, terrenos, tatamis para deportes de combate y una piscina semiolímpica.
+
+Pregunta: ¿Qué instalaciones o lugares deportivos hay en la Cujae?
+Respuesta: La Cujae cuenta con el DEDER, terrenos, tatamis para deportes de combate y una piscina semiolímpica.
+
+Respuesta: ¿Dónde Cómo me puedo matricular?
+Respuesta: La matrícula tendrá dos modalidades: presencial y no presencial (en línea). Para realizar la matrícula presencial es necesario que antes introduzca su información en línea, en el periodo que se convoca.
+
+Respuesta: ¿Dónde Cómo me puedo matricular en la Cujae?
+Respuesta: La matrícula tendrá dos modalidades: presencial y no presencial (en línea). Para realizar la matrícula presencial es necesario que antes introduzca su información en línea, en el periodo que se convoca.
+
+Respuesta: ¿Cómo es la matricula en la Cujae?
+Respuesta: La matrícula tendrá dos modalidades: presencial y no presencial (en línea). Para realizar la matrícula presencial es necesario que antes introduzca su información en línea, en el periodo que se convoca.
+
+Respuesta: ¿Cómo puedo saber más de la Cujae?
+Respuesta: Podría seguir las redes sociales donde la cujae se identifica como cujaeRedSocial o simplemente acceder a la pagina web oficial de la Cujae.
+
+Respuesta: ¿Redes sociales?
+Respuesta: Podría seguir las redes sociales donde la cujae se identifica como cujaeRedSocial o simplemente acceder a la pagina web oficial de la Cujae.
+
+Pregunta: ¿Hay becas disponibles?
+Respuesta: La universidad cuenta con becas para estudiantes de cada Facultad a excepción de informática debido a que solamente se estudia en la Habana.
+
+Pregunta: ¿Hay becas disponibles Cujae?
+Respuesta: La universidad cuenta con becas para estudiantes de cada Facultad a excepción de informática debido a que solamente se estudia en la Habana.
+
+Pregunta: ¿Cómo acceder la biblioteca?
+Respuesta: Todos los estudiantes pertenecientes a la universidad tienen acceso a la biblioteca en su horario pertinente.
+
+Pregunta: ¿Cómo puedo acceder la biblioteca Cujae?
+Respuesta: Todos los estudiantes pertenecientes a la universidad tienen acceso a la biblioteca en su horario pertinente.
+
+Pregunta: ¿Hay bibliotecas?
+Respuesta: Hay bibliotecas la principal se encuentra en las cercanías de la entrada principal entre Telecomunicaciones y Automática.
+
+Pregunta: ¿servicios salud medicos?
+Respuesta: La Cujae presenta su posta Médica en el DEDER (Zona Deportiva) además presenta un centro médico en las Becas o Residencias Estudiantiles.
+
+Pregunta: ¿Qué instalaciones medicas tiene la cujae?
+Respuesta: La Cujae presenta su posta Médica en el DEDER (Zona Deportiva) además presenta un centro médico en las Becas o Residencias Estudiantiles.
+
+Pregunta: ¿Qué servicios de salud o médicos hay en la Cujae?
+Respuesta: La Cujae presenta su posta Médica en el DEDER (Zona Deportiva) además presenta un centro médico en las Becas o Residencias Estudiantiles.
+
+Pregunta: ¿Costo precio matrícula?
+Respuesta: La matrícula en la Cujae es gratuita para todos los estudiantes universitarios.
+
+Pregunta: ¿Qué Costo o precio de matrícula hay en la Cujae?
+Respuesta: La matrícula en la Cujae es gratuita para todos los estudiantes universitarios.
+
+Pregunta: ¿contactar comunicar universidad?
+Respuesta: CORREOS: rectorado@tesla.cujae.edu.cu y comunicación@tesla.cujae.edu.cu.
+
+Pregunta: ¿a quien puedo contactar o llamar para comunicarme con la universidad de la Cujae?
+Respuesta: CORREOS: rectorado@tesla.cujae.edu.cu y comunicación@tesla.cujae.edu.cu.
+
+Pregunta: ¿Puedo trabajar mientras estudio?
+Respuesta: Claro que sí, mientras puedas congeniarte con el ritmo de las clases puedes trabajar mientras recibes el curso diurno o pasar el curso por trabajadores.
+
+Pregunta: ¿Puedo trabajar mientras estudio en la Cujae?
+Respuesta: Claro que sí, mientras puedas congeniarte con el ritmo de las clases puedes trabajar mientras recibes el curso diurno o pasar el curso por trabajadores.
+
+Pregunta: ¿Actividades extracurriculares extra se hacen?
+Respuesta: La Cujae está plagada de actividades tanto recreativas (fiestas, caldosas, campismos y excursiones), culturales (movimientos culturales y festivales de cultura), deportivas (Interaños y Juegos XIII) y científicas (Jornadas Científicas Estudiantiles y montones de actividades para fomentar la investigación y el conocimiento).
+
+Pregunta: ¿Qué Actividades extracurriculares o extra se hacen en la Cujae?
+Respuesta: La Cujae está plagada de actividades tanto recreativas (fiestas, caldosas, campismos y excursiones), culturales (movimientos culturales y festivales de cultura), deportivas (Interaños y Juegos XIII) y científicas (Jornadas Científicas Estudiantiles y montones de actividades para fomentar la investigación y el conocimiento).
+
+Pregunta: ¿transporte público?
+Respuesta: Claro, aunque la Cujae se encuentra en una posición algo poco concurrida existen posibilidades como el P9, PC, 177, A45 entre otras, además la Universidad garantiza varias rutas para ir por la mañana y el expreso que saldría por la tarde.
+
+Pregunta: ¿Qué transporte público puedo tomar para ir a la cujae?
+Respuesta: Claro, aunque la Cujae se encuentra en una posición algo poco concurrida existen posibilidades como el P9, PC, 177, A45 entre otras, además la Universidad garantiza varias rutas para ir por la mañana y el expreso que saldría por la tarde.
+
+Pregunta: ¿carnet de estudiante FEU?
+Respuesta: No se preocupe el carnet de estudiante de la Cujae además de integrante de la FEU se le será entregado por su Facultad y Secretariado de la FEU respectivamente.
+
+Pregunta: ¿Cuándo dan el carnet de estudiante FEU?
+Respuesta: No se preocupe el carnet de estudiante de la Cujae además de integrante de la FEU se le será entregado por su Facultad y Secretariado de la FEU respectivamente.
+
+Pregunta: ¿Qué opciones de comida hay cerca?
+Respuesta: En las cercanías de la universidad hay varios negocios de venta de alimentos y GUARAPO además en las becas existe también una cafetería, podría comer en el Comedor e incluso varias otras alternativas dentro del campus universitario.
+
+Pregunta: ¿Dónde puedo comer?
+Respuesta: En las cercanías de la universidad hay varios negocios de venta de alimentos y GUARAPO además en las becas existe también una cafetería, podría comer en el Comedor e incluso varias otras alternativas dentro del campus universitario.
+
+Pregunta: ¿Qué opciones de comida hay cerca de la Cujae?
+Respuesta: En las cercanías de la universidad hay varios negocios de venta de alimentos y GUARAPO además en las becas existe también una cafetería, podría comer en el Comedor e incluso varias otras alternativas dentro del campus universitario.
+
+Pregunta: ¿Cómo puedo participar en los movimientos estudiantiles?
+Respuesta: En la Cujae para participar en los movimientos estudiantes simplemente tener la disposición y las aptitudes que se requieran para formar parte del movimiento correspondiente.
+
+Pregunta: ¿Cómo puedo participar en los movimientos estudiantiles de la Cujae?
+Respuesta: En la Cujae para participar en los movimientos estudiantes simplemente tener la disposición y las aptitudes que se requieran para formar parte del movimiento correspondiente.
+
+Pregunta: ¿Qué ingenierías estudian?
+Respuesta: Las Ingenierias que se estudian en la Cujae son Informática, Industrial, Química, Mecánica, Telecomunicaciones y Electrónica, Civil, Automática y Biomédica y Mecánica.
+
+Pregunta: ¿Qué ingenierías tienen?
+Respuesta: Las Ingenierias que se estudian en la Cujae son Informática, Industrial, Química, Mecánica, Telecomunicaciones y Electrónica, Civil, Automática y Biomédica y Mecánica.
+
+Pregunta: ¿Qué ingenierías se estudian o tienen en la Cujae?
+Respuesta: Las Ingenierias que se estudian en la Cujae son Informática, Industrial, Química, Mecánica, Telecomunicaciones y Electrónica, Civil, Automática y Biomédica y Mecánica.
+
+Pregunta: ¿título de la Cujae lo aceptan otros paises?
+Respuesta: La Cujae cuenta con el título de universidad por excelencia por lo que su título es reconocido en varios países como España.
+
+Pregunta: ¿El título de la Cujae tiene vigor en otros paises?
+Respuesta: La Cujae cuenta con el título de universidad por excelencia por lo que su título es reconocido en varios países como España.
+
+Pregunta: ¿El título de la Cujae sirve fuera de Cuba?
+Respuesta: La Cujae cuenta con el título de universidad por excelencia por lo que su título es reconocido en varios países como España.
+
+Pregunta: ¿facilidades privilegios tecnológicos estudiantes?
+Respuesta: La universidad te brinda internet para usar en la instalación semanalmente, además de acceso a laboratorios e instalaciones.
+
+Pregunta: ¿facilidades o privilegios tecnológicos que tienen los estudiantes de la Cujae?
+Respuesta: La universidad te brinda internet para usar en la instalación semanalmente, además de acceso a laboratorios e instalaciones.
+
+Pregunta: ¿acceder ir instalaciones  deportivas?
+Respuesta: Puede acceder a las instalaciones deportivas cuando desee a excepción de la piscina.
+
+Pregunta: ¿Cuándo puedo a las ir canchas deportivas de la Cujae?
+Respuesta: Puede acceder a las instalaciones deportivas cuando desee a excepción de la piscina.
+
+Pregunta: ¿Cuál es política acoso discriminación?
+Respuesta: La universidad tiene tolerancia cero contra el acoso y la discriminación apoyando los principios de la Revolución seguridad e igualdad de derechos.
+
+Pregunta: ¿Cuál es la política de acoso o discriminación de la Cujae?
+Respuesta: La universidad tiene tolerancia cero contra el acoso y la discriminación apoyando los principios de la Revolución seguridad e igualdad de derechos.
+
+Pregunta: ¿prácticas profesionales curso?
+Respuesta: Las prácticas profesionales en dependencia de la Facultad se convenían con empresas tanto estatales como privadas para que el estudiante emplee los conocimientos adquiridos por la carrera.
+
+Pregunta: ¿Cómo son prácticas profesionales o de curso en la Cujae?
+Respuesta: Las prácticas profesionales en dependencia de la Facultad se convenían con empresas tanto estatales como privadas para que el estudiante emplee los conocimientos adquiridos por la carrera.
+
+Pregunta: ¿Qué programas de verano ofrece la CUJAE?
+Respuesta: LA universidad suele brindar disimiles programas de verano, pero suelen variar, desde cursos de programación, dirección o gestión de empresas, cualquier tema relacionado con sus facultades o compromisos con la Revolución.
+
+Pregunta: ¿seguridad y proteccion?
+Respuesta: La Cujae cuenta con custodios que garantizan la entrada al centro a través de los carnets estudiantiles o del centro lo que garantiza la seguridad en el centro.
+
+Pregunta: ¿Qué seguridad y protección hay en la Cujae?
+Respuesta: La Cujae cuenta con custodios que garantizan la entrada al centro a través de los carnets estudiantiles o del centro lo que garantiza la seguridad en el centro.
+
+Pregunta: ¿A que hora empiezan las clases?
+Respuesta: las clases en la Cujae empiezan a las 9:00 AM.
+
+Pregunta: ¿A que hora empiezan las clases en la Cujae?
+Respuesta: las clases en la Cujae empiezan a las 9:00 AM.
+
+Pregunta: ¿Qué son los juegos 13 de marzo?
+Respuesta: Los Juegos XIII de Marzo son las olimpiadas de la Cujae donde las 9 Facultades compiten en cerca de 40 modalidades deportivas para ver cual es la más atlética.
+
+Pregunta: ¿Qué son los juegos XIII de marzo?
+Respuesta: Los Juegos XIII de Marzo son las olimpiadas de la Cujae donde las 9 Facultades compiten en cerca de 40 modalidades deportivas para ver cual es la más atlética.
+
+Pregunta: ¿Cuál es la Facultad más Sencilla?
+Respuesta: Todas las Facultades tienen su Complejidad pero se habla por ahí que es Ing Industrial.
+
+Pregunta: ¿Cuál es la Carrera más Sencilla?
+Respuesta: Todas las Facultades tienen su Complejidad pero se habla por ahí que es Ing Industrial.
+
+Pregunta: ¿Facultad más facil?
+Respuesta: Todas las Facultades tienen su Complejidad pero se habla por ahí que es Ing Industrial.
+
+Pregunta: ¿Carrera más Sencilla de la Cujae?
+Respuesta: Todas las Facultades tienen su Complejidad pero se habla por ahí que es Ing Industrial.
+
+Pregunta: ¿Qué es el Festival de Cultura?
+Respuesta: El Festival de Cultura es una actividad donde las 9 Facultades compiten realizando presentaciones culturales para ver cual es la más cultural.
+
+Pregunta: ¿De cuantos años son la carreras ingenierías?
+Respuesta: La duración de las carreras es de 4 años a partir del plan de estudios 'E' que actualmente se encuentra en vigor.
+
+Pregunta: ¿Cuánto duran las ingenierías?
+Respuesta: La duración de las carreras de ingenieria es de 4 años a partir del plan de estudios 'E' que actualmente se encuentra en vigor.
+
+Pregunta: ¿Cuál es la duración de una ingenieria?
+Respuesta: La duración de las carreras de ingenieria es de 4 años a partir del plan de estudios 'E' que actualmente se encuentra en vigor.
+
+Pregunta: ¿Qué duración tienen las carreras?
+Respuesta: La duración de las carreras de la Cujae es de 4 años a partir del plan de estudios 'E' que actualmente se encuentra en vigor.
+
+Pregunta: Háblame de ti
+Respuesta: Soy un programa creado por Andy Clemente Gago estudiante en ese entonces de 2do de Ing informática en la asignatura de Optativa de Python, empleo TF-IDF para vectorizar una serie de preguntas y respuestas que me dio mi creador y a partir de relaciones con el coseno, busco la respuesta mas acertada... Suelo equivocarme.
+
+Pregunta: ¿Cómo Funcionas?
+Respuesta: Soy un programa creado por Andy Clemente Gago estudiante en ese entonces de 2do de Ing informática en la asignatura de Optativa de Python, empleo TF-IDF para vectorizar una serie de preguntas y respuestas que me dio mi creador y a partir de relaciones con el coseno, busco la respuesta mas acertada... Suelo equivocarme.
+
+Pregunta: ¿Cuál es tu Facultad favorita de la Cujae?
+Respuesta: Mi Facultad Favorita de la Cujae es Ingeniería Informática debido a que de ahí provengo.
+
+Pregunta: ¿Cuál es tu Facultad favorita?
+Respuesta: Mi Facultad Favorita de la Cujae es Ingeniería Informática debido a que de ahí provengo.
+
+Pregunta: ¿Qué es el Pasillo Central?
+Respuesta: El Pasillo Central es el primer gran pasillo que se observa cuando se entra a la Universidad en las cercanías de Industrial y a las escaleras para bajar al paso de los vientos.
+
+Pregunta: ¿Qué es el Paso de los Vientos?
+Respuesta: El paso de los vientos es el lugar más fresco de la cujae gracias a su diseño y construcción, es normal ver estudiantes sentados estudiando y compartiendo.
+
+Pregunta: ¿Qué es La Pecera?
+Respuesta: La pecera se encuentra al final del pasillo central cerca de la Facultad de Química y en ese local se suelen realizar actividades.
+
+Pregunta: ¿Qué es El Cenicero?
+Respuesta: El Cenicero se encuentra en las cercanías de la estatua de José Antonio Echeverría y ahí se suelen organizar actos y los tan famosos conciertos de Buena Fe.
+
+Pregunta: ¿Himno?
+Respuesta: El himno de la Cujae se llama AlmaCujae y está compuesto por el músico Israel Rojas, perteneciente del Grupo Buena Fe.
+
+Pregunta: ¿Cómo te llamas?
+Respuesta: Me llamo Asitente de Consulta Cujae, pero mis amigos me llaman ASIJAE.
+
+Pregunta: ¿dame tu nombre?
+Respuesta: Me llamo Asitente de Consulta Cujae, pero mis amigos me llaman ASIJAE.
+
+Pregunta: ¿Cuál es la mejor Facultad?
+Respuesta: Ingeniería Informática Obviamente.
+
+Pregunta: ¿requisitos para inscribirme o matricularme?
+Respuesta: Para inscribirse a la Cujae debe hacer las pruebas que brinda la universidad por concurso o simplemente obtenerla después de culminar el bachillerato en el otorgamiento de carreras.
+
+Pregunta: ¿requisitos para inscribirme o matricularme en la Cujae?
+Respuesta: Para inscribirse a la Cujae debe hacer las pruebas que brinda la universidad por concurso o simplemente obtenerla después de culminar el bachillerato en el otorgamiento de carreras.
+
+Pregunta: ¿Cómo puedo becarme?
+Respuesta: Para solicitar una beca debe dirigirse al decanato de su Facultad y solicitar la Beca y luego dirigirse a las Becas de la Cujae.
+
+Pregunta: ¿solicitar pedir beca?
+Respuesta: Para solicitar una beca debe dirigirse al decanato de su Facultad y solicitar la Beca y luego dirigirse a las Becas de la Cujae.
+
+Pregunta: ¿Cómo puedo solicitar o pedir una beca en la Cujae?
+Respuesta: Para solicitar una beca debe dirigirse al decanato de su Facultad y solicitar la Beca y luego dirigirse a las Becas de la Cujae.
+
+Pregunta: ¿Requisitos para becarme?
+Respuesta: Necesita como requisito llevar su Carnet de Identidad, Provincia y Municipio, además del tiempo de la Beca.
+
+Pregunta: ¿Requisitos para pedir una beca?
+Respuesta: Necesita como requisito llevar su Carnet de Identidad, Provincia y Municipio, además del tiempo de la Beca.
+
+Pregunta: ¿Qué documentos necesito para inscribirme o matricularme?
+Respuesta:  Para realizar la matrícula deben presentar: Carné de identidad con dirección de residencia permanente en La Habana, excepto los estudiantes de otras provincias a los que les fue asignada la carrera en la Cujae. Cuatro fotos tipo carné. Original y copia del título y la certificación de estudios que acrediten el nivel de 12mo. Los varones deberán presentar la boleta original de licenciamiento del Servicio Militar Activo (SMA) o la carta original de cumplimiento del Trabajo Socialmente Útil , esta carta debe tener el cuño de la Comisión de Ingreso Provincial de la provincia que le otorgó la carrera.
+
+Pregunta: ¿Qué documentos necesito para inscribirme o matricularme en la Cujae?
+Respuesta: Para realizar la matrícula deben presentar: Carné de identidad con dirección de residencia permanente en La Habana, excepto los estudiantes de otras provincias a los que les fue asignada la carrera en la Cujae. Cuatro fotos tipo carné. Original y copia del título y la certificación de estudios que acrediten el nivel de 12mo. Los varones deberán presentar la boleta original de licenciamiento del Servicio Militar Activo (SMA) o la carta original de cumplimiento del Trabajo Socialmente Útil , esta carta debe tener el cuño de la Comisión de Ingreso Provincial de la provincia que le otorgó la carrera.
+
+Pregunta: Hazme un chiste
+Respuesta: No sé que es más inútil si los semáforos en el GTA5 o los baños de mujeres en la Facultad de Eléctrica.
+
+Pregunta: Cuéntame algo gracioso
+Respuesta: No sé que es más inútil si los semáforos en el GTA5 o los baños de mujeres en la Facultad de Eléctrica.
+
+Pregunta: Dime lugares significativos
+Respuesta: El Paso de los Vientos, el Pasillo Central, el Cenicero, La Pecera, el DEDER, las Becas, el CITI, el CETI.
+
+Pregunta: ¿Cuándo se inaugura la Cujae?
+Respuesta: La Cujae se inauguró el 2 de diciembre de 1964 donde el Comandante en Jefe Fidel Castro inaugura, en La Habana, la Ciudad Universitaria José Antonio Echeverría (CUJAE) Ocupando sus instalaciones la Facultad de Tecnología de la Universidad de La Habana y los cursos de nivelación, destinados a capacitar debidamente a los graduados de Bachillerato que aspiraban a estudiar carreras de ingenierías.
+
+Pregunta: inauguración Cujae
+Respuesta: La Cujae se inauguró el 2 de diciembre de 1964 donde el Comandante en Jefe Fidel Castro inaugura, en La Habana, la Ciudad Universitaria José Antonio Echeverría (CUJAE) Ocupando sus instalaciones la Facultad de Tecnología de la Universidad de La Habana y los cursos de nivelación, destinados a capacitar debidamente a los graduados de Bachillerato que aspiraban a estudiar carreras de ingenierías.
+
+Pregunta: Construcción de la Cujae
+Respuesta: La Cujae se inauguró el 2 de diciembre de 1964 donde el Comandante en Jefe Fidel Castro inaugura, en La Habana, la Ciudad Universitaria José Antonio Echeverría (CUJAE) Ocupando sus instalaciones la Facultad de Tecnología de la Universidad de La Habana y los cursos de nivelación, destinados a capacitar debidamente a los graduados de Bachillerato que aspiraban a estudiar carreras de ingenierías.
+
+Pregunta: Proyección de la Cujae
+Respuesta: A lo largo de su historia, la Cujae ha graduado más de cincuenta mil profesionales, de los cuales dos mil han sido estudiantes extranjeros, provenientes fundamentalmente, de países de Latinoamérica, África y Asia. El Instituto también ha desarrollado más de noventa proyectos internacionales y mantiene lazos de amistad e intercambio académico con más de doscientas universidades del mundo.
+
+Pregunta: Objetivo Cujae
+Respuesta: A lo largo de su historia, la Cujae ha graduado más de cincuenta mil profesionales, de los cuales dos mil han sido estudiantes extranjeros, provenientes fundamentalmente, de países de Latinoamérica, África y Asia. El Instituto también ha desarrollado más de noventa proyectos internacionales y mantiene lazos de amistad e intercambio académico con más de doscientas universidades del mundo.
+
+Pregunta: ¿Lugar Favorito de la Cujae?
+Respuesta: Mi lugar favorito de la Cujae es el Paso de los Vientos debido a que siempre es refrescante estar ahí además siempre hay estudiantes.
