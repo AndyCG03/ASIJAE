@@ -92,8 +92,8 @@ def responderPregunta(nueva_pregunta, vectorizer, tfidf_matrix, respuestas, umbr
 
             # Graficar las funciones TF-IDF
             fig, ax = plt.subplots(figsize=(10, 6))
-            ax.plot(nueva_pregunta_tfidf, marker='o', label='Nueva Pregunta')
-            ax.plot(mejor_pregunta_tfidf, marker='x', label='Mejor Coincidencia')
+            ax.plot(nueva_pregunta_tfidf, marker='o', label='Nueva Pregunta', color='red')
+            ax.plot(mejor_pregunta_tfidf, marker='x', label='Mejor Coincidencia', color='green')
             ax.set_title('Funciones TF-IDF de la Nueva Pregunta y la Mejor Coincidencia')
             ax.set_xlabel('Índice del Término')
             ax.set_ylabel('Valor TF-IDF')
