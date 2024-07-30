@@ -23,3 +23,21 @@ Ejemplo de pantalla Emergente
 
 El proyecto también cuenta con efectos de sonidos y dentro del repo existe un video donde se muestra y explica su uso
 
+Bibliotecas usadas
+Trabajo con los Datos
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
+Uso de efectos de sonido
+import pygame
+
+Trabajo con las pantallas de la aplicación
+import tkinter as tk
+from tkinter import scrolledtext, ttk
+from PIL import Image, ImageTk
+
+Trabajo con Graficas 
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+import matplotlib.pyplot as plt
+
+Creado por Andy Clemente Gago 2do de Informática Optativa de Python tutora Lic. Sheila Leyva Sánchez
