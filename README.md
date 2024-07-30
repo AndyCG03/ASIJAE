@@ -11,3 +11,15 @@ El asistente es capaz de responder preguntas desde como matricularse en la unive
 y eventos significativos
 
 El resultado del proyecto es una aplicación de escritorio bastante visual e intuitiva que espero que le guste.
+
+Pantalla Principal de la aplicación
+![Captura de pantalla 2024-07-29 230926](https://github.com/user-attachments/assets/a014f979-a8fb-4ead-847b-17cf6491f464)
+
+Ejemplo de uso con mostrado de graficado
+![Captura de pantalla 2024-07-29 231009](https://github.com/user-attachments/assets/1eb0a3e3-0ce8-42a8-907a-c5fda4e62c13)
+
+Ejemplo de pantalla Emergente 
+![Captura de pantalla 2024-07-29 231024](https://github.com/user-attachments/assets/f8819c9c-dc63-4b32-b962-4641ce25fa99)
+
+El proyecto también cuenta con efectos de sonidos y dentro del repo existe un video donde se muestra y explica su uso
+
